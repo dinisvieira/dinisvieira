@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm Dinis
+
+I’m a Software Developer currently focusing on Mobile development with Xamarin although I have done (and still do) Native, Web and Hybrid mobile development.
+
+## 😄 - About
+
+- Name: Dinis Vieira
+- Email: dinisvieira@outlook.com or dinis@hey.com
+- Twitter: [@dinisvieira](https://twitter.com/dinisvieira)
+- LinkedIn: [https://www.linkedin.com/in/dinisvieira/](https://www.linkedin.com/in/dinisvieira/)
+- Pronouns: he/him
 
 <!--
 **dinisvieira/dinisvieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
