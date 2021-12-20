@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Dinis
 
-I’m a Software Developer currently focusing on Mobile development with Xamarin although I have done (and still do) Native, Web and Hybrid mobile development.
+I’m a **Software Developer** currently focusing on **Mobile Development** with **Xamarin**. In the past I have also done Native and Hybrid Mobile Development as well as Web Development.
 
 ## 😄 - About
 
