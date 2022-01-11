@@ -7,6 +7,7 @@ I’m a **Software Developer** currently focusing on **Mobile Development** with
 - Name: Dinis Vieira
 - Email: dinisvieira@outlook.com or dinis@hey.com
 - Twitter: [@dinisvieira](https://twitter.com/dinisvieira)
+- Website / CV: [https://www.dinisvieira.com/](https://www.dinisvieira.com/)
 - LinkedIn: [https://www.linkedin.com/in/dinisvieira/](https://www.linkedin.com/in/dinisvieira/)
 - Pronouns: he/him
 
