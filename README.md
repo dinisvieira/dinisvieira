@@ -11,7 +11,6 @@ I’m a **Software Developer** currently focusing on **Mobile Development** with
 - Mastodon: [@dinisvieira@mastodon.social](https://mastodon.social/@dinisvieira)
 - Website / CV: [https://www.dinisvieira.com/](https://www.dinisvieira.com/)
 - LinkedIn: [https://www.linkedin.com/in/dinisvieira/](https://www.linkedin.com/in/dinisvieira/)
-- Pronouns: he/him
 
 <!--
 **dinisvieira/dinisvieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
