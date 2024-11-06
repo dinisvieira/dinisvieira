@@ -6,7 +6,6 @@ I’m a **Software Developer** currently focusing on **Mobile Development** with
 
 - Name: Dinis Vieira
 - Email: dinisvieira@outlook.com or dinis@dinisvieira.com
-- Twitter: [@dinisvieira](https://twitter.com/dinisvieira)
 - Bluesky [@dinisvieira](https://bsky.app/profile/dinisvieira.com)
 - Mastodon: [@dinisvieira@mastodon.social](https://mastodon.social/@dinisvieira)
 - Website / CV: [https://www.dinisvieira.com/](https://www.dinisvieira.com/)
