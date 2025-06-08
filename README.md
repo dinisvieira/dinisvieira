@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Dinis
 
-I’m a **Software Developer** currently focusing on **Mobile Development** with **Xamarin / MAUI**. In the past I have also done Native and Hybrid Mobile Development as well as Web Development.
+I’m a **Software Developer** currently focusing on Cross-Platform **Mobile Development** with KMP / CMP (**Compose Multiplatform**) and **Xamarin / MAUI**. In the past I have also done Native and Hybrid Mobile Development as well as Web Development.
 
 ## 😄 - About
 
