@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Dinis
 
-I’m a **Software Developer** currently focusing on Cross-Platform **Mobile Development** with KMP / CMP (**Compose Multiplatform**) and **Xamarin / MAUI**. In the past I have also done Native and Hybrid Mobile Development as well as Web Development.
+I'm a **Senior Software Developer** with 15 years of experience, currently specializing in cross-platform mobile development with **Kotlin Multiplatform**, **Compose Multiplatform**, and **.NET MAUI** for building **Android**, **iOS** and **Desktop** apps.
+My earlier experience spans native mobile, web, and backend development. Along the way, I’ve led small development teams as Team Lead and advised management on key technology decisions.
 
 ## 😄 - About
 
